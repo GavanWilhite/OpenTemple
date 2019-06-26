@@ -11,7 +11,7 @@ Licensed under Creative Commons (CC-BY-SA 4.0)
 .             |  .
 :-------------------------:|:-------------------------:
 ![Temple of Release](./pictures/IMG_0158.jpg)  |  ![Temple of Release](./pictures/IMG_0281.jpg)
-![Temple of Release](./pictures/temple-of-release.png)  |  .
+![Temple of Release](./pictures/temple-of-release.PNG)  |  .
 
 
 ### Original Intention
@@ -35,7 +35,7 @@ On the last day of the event, the temple was burned.
 .             |  .
 :-------------------------:|:-------------------------:
 ![Temple of Invitation](./pictures/IMG_0157.jpg)  |  ![Temple of Invitation](./pictures/IMG_0153.jpg)
-![Temple of Invitation](./pictures/temple-of-invitation-1.png)  |  ![Temple of Invitation](./pictures/temple-of-invitation-2.png)
+![Temple of Invitation](./pictures/temple-of-invitation-1.PNG)  |  ![Temple of Invitation](./pictures/temple-of-invitation-2.PNG)
 
 ### Original Intention
 
