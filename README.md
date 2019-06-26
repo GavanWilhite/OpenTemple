@@ -6,7 +6,7 @@ Designs are flexible to facilitate multiple uses. Original use and interpretatio
 
 Licensed under Creative Commons (CC-BY-SA 4.0)
 
-[Music](https://soundcloud.com/gavan-888343117/invitation-release) is provided for the temples of Release & Invitation. It is designed to be played back over two stereo speakers, one at each temple.
+[Music](https://soundcloud.com/gavanw/invitation-release) is provided for the temples of Release & Invitation. It is designed to be played back over two stereo speakers, one at each temple.
 
 ## Temple of Release
 
