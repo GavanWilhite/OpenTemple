@@ -15,7 +15,7 @@ Licensed under Creative Commons (CC-BY-SA 4.0)
 
 ### Original Intention
 
-People were invited to write things that they wanted to let go of on the temple. Regrets, fears, negative mindsets, etc.
+People were invited to write what they wanted to let go of on the temple. Regrets, fears, negative mindsets, etc.
 
 On the last day of the event, the temple was burned.
 
@@ -37,7 +37,7 @@ On the last day of the event, the temple was burned.
 
 ### Original Intention
 
-People were invited to write things they wanted to bring more of into their life on slates, that were hung on the walls of the temple. These were then offered as gifts to take home.
+People were invited to write on slates what they wanted to bring more of into their life. These were hung on the walls of the temple, and later offered as gifts to take home.
 
 ### Tools
   - 8' x 4' laser cutter
