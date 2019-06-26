@@ -1,6 +1,6 @@
 # OpenTemple
 
-OpenTemple is a set of project files for quickly constructing a set laser-cut temples. Useful for events like community rituals, festivals, or weddings.
+OpenTemple is a set of project files for quickly constructing laser-cut temples. Useful for events like community rituals, festivals, or weddings.
 
 Designs are flexible to facilitate multiple uses. Original use and interpretations are included as a starting point.
 
