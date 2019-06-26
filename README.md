@@ -5,6 +5,9 @@ OpenTemple is a set of project files for quickly constructing a set laser-cut te
 Designs are flexibile to allow for different use. Original use and interpretations are included as a starting point.
 
 ## Temple of Release
+.             |  .
+:-------------------------:|:-------------------------:
+![Temple of Release](./pictures/IMG_0158.jpg)  |  ![Temple of Release](./pictures/IMG_0281.jpg)
 
 Tools:
   - 8' x 4' laser cutter
@@ -16,6 +19,9 @@ Notes:
   Holes at top can be used to hang an object in the center. This is a good placement for a wireless speaker.
 
 ## Temple of Invitation
+.             |  .
+:-------------------------:|:-------------------------:
+![Temple of Invitation](./pictures/IMG_0157.jpg)  |  ![Temple of Invitation](./pictures/IMG_0153.jpg)
 
 Tools:
   - 8' x 4' laser cutter
