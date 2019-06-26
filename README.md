@@ -34,4 +34,5 @@ Materials:
   - 1x [4' x 1" dowel](https://www.homedepot.com/p/6416U-1-in-x-1-in-x-48-in-Hardwood-Round-Dowel-10001808/203334068)
   - 44x 4' [fabric strips or ribbons](https://www.joann.com/jelly-roll-cotton-fabric-20-strips-2.5-assorted-gray-white-patterns/15216435.html)
   - 2x [packs of double sided adhesive](https://www.amazon.com/3M-110-3M-Scotch-Mounting-75-inches/dp/B00004Z498) (for attaching ribbons to each other an the temple)
-  - 72x 1/2' nails
+  - (optional) 72x 1/2' nails
+  - (optional) 72x [slate labels](https://www.amazon.com/gp/product/B00HCCZOW8)
