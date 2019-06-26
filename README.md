@@ -5,6 +5,15 @@ OpenTemple is a set of project files for quickly constructing a set laser-cut te
 Designs are flexibile to allow for different use. Original use and interpretations are included as a starting point.
 
 ## Temple of Release
+
+An easy-to-assemble laser-cut temple made from 4 planes of plywood.
+
+Original Intention:
+
+People were invited to write things that they wanted to let go of on the temple. Regrets, fears, negative mindsets, etc.
+
+On the last day of the event, the temple was burned.
+
 .             |  .
 :-------------------------:|:-------------------------:
 ![Temple of Release](./pictures/IMG_0158.jpg)  |  ![Temple of Release](./pictures/IMG_0281.jpg)
@@ -22,6 +31,10 @@ Notes:
 .             |  .
 :-------------------------:|:-------------------------:
 ![Temple of Invitation](./pictures/IMG_0157.jpg)  |  ![Temple of Invitation](./pictures/IMG_0153.jpg)
+
+Original Intention:
+
+People were invited to write things they wanted to bring more of into their life on slates, that were hung on the walls of the temple. These were then offered as gifts to take home.
 
 Tools:
   - 8' x 4' laser cutter
