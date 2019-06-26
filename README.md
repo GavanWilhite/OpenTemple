@@ -24,7 +24,8 @@ On the last day of the event, the temple was burned.
   - 4x panels of 8' x 4' 1/2" plywood
   
 ### Notes
-  - Holes at the top can be used to hang an object in the center. This is a good placement for a wireless speaker.
+  - Holes at the top can be used to hang an object or speaker aloft in the middle.
+  - Burning is easily facilitated by loading wood in from the top of the center chimney
 
 ## Temple of Invitation
 
