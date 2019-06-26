@@ -4,6 +4,8 @@ OpenTemple is a set of project files for quickly constructing laser-cut temples.
 
 Designs are flexible to facilitate multiple uses. Original use and interpretations are included as a starting point.
 
+Licensed under Creative Commons (CC-BY-SA 4.0)
+
 ## Temple of Release
 
 .             |  .
